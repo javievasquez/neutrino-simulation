@@ -1,0 +1,3 @@
+timestamp_epoch:1758036265.602758639
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6

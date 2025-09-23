@@ -1,0 +1,5000 @@
+=== Event 0001 ===
+timestamp_epoch:1758036263.410286968
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0002 ===
+timestamp_epoch:1758036263.414442578
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0003 ===
+timestamp_epoch:1758036263.417734207
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0004 ===
+timestamp_epoch:1758036263.420819945
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0005 ===
+timestamp_epoch:1758036263.423852542
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0006 ===
+timestamp_epoch:1758036263.426874574
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0007 ===
+timestamp_epoch:1758036263.429954060
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0008 ===
+timestamp_epoch:1758036263.432651786
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0009 ===
+timestamp_epoch:1758036263.435368948
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0010 ===
+timestamp_epoch:1758036263.438433626
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0011 ===
+timestamp_epoch:1758036263.441232059
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0012 ===
+timestamp_epoch:1758036263.444372554
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0013 ===
+timestamp_epoch:1758036263.447048961
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0014 ===
+timestamp_epoch:1758036263.449953234
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0015 ===
+timestamp_epoch:1758036263.453116227
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0016 ===
+timestamp_epoch:1758036263.455544244
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0017 ===
+timestamp_epoch:1758036263.458303208
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0018 ===
+timestamp_epoch:1758036263.461461063
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0019 ===
+timestamp_epoch:1758036263.464396640
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0020 ===
+timestamp_epoch:1758036263.467311688
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0021 ===
+timestamp_epoch:1758036263.503644793
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0022 ===
+timestamp_epoch:1758036263.509375823
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0023 ===
+timestamp_epoch:1758036263.513392727
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0024 ===
+timestamp_epoch:1758036263.516473852
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0025 ===
+timestamp_epoch:1758036263.519200563
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0026 ===
+timestamp_epoch:1758036263.521574468
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0027 ===
+timestamp_epoch:1758036263.524014816
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0028 ===
+timestamp_epoch:1758036263.527109213
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0029 ===
+timestamp_epoch:1758036263.530243553
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0030 ===
+timestamp_epoch:1758036263.533573582
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0031 ===
+timestamp_epoch:1758036263.536351133
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0032 ===
+timestamp_epoch:1758036263.538947877
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0033 ===
+timestamp_epoch:1758036263.541617362
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0034 ===
+timestamp_epoch:1758036263.544556253
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0035 ===
+timestamp_epoch:1758036263.547501170
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0036 ===
+timestamp_epoch:1758036263.550730783
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0037 ===
+timestamp_epoch:1758036263.553533991
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0038 ===
+timestamp_epoch:1758036263.556600548
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0039 ===
+timestamp_epoch:1758036263.559688371
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0040 ===
+timestamp_epoch:1758036263.562659923
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0041 ===
+timestamp_epoch:1758036263.565364889
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0042 ===
+timestamp_epoch:1758036263.568111773
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0043 ===
+timestamp_epoch:1758036263.571094296
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0044 ===
+timestamp_epoch:1758036263.573866083
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0045 ===
+timestamp_epoch:1758036263.577218352
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0046 ===
+timestamp_epoch:1758036263.580375800
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0047 ===
+timestamp_epoch:1758036263.582928340
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0048 ===
+timestamp_epoch:1758036263.586256113
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0049 ===
+timestamp_epoch:1758036263.589473462
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0050 ===
+timestamp_epoch:1758036263.592519052
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0051 ===
+timestamp_epoch:1758036263.596091867
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0052 ===
+timestamp_epoch:1758036263.599036726
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0053 ===
+timestamp_epoch:1758036263.602110916
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0054 ===
+timestamp_epoch:1758036263.605225884
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0055 ===
+timestamp_epoch:1758036263.608019434
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0056 ===
+timestamp_epoch:1758036263.611286663
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0057 ===
+timestamp_epoch:1758036263.614144601
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0058 ===
+timestamp_epoch:1758036263.616803739
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0059 ===
+timestamp_epoch:1758036263.619909929
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0060 ===
+timestamp_epoch:1758036263.622831904
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0061 ===
+timestamp_epoch:1758036263.625930451
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0062 ===
+timestamp_epoch:1758036263.628787580
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0063 ===
+timestamp_epoch:1758036263.631666960
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0064 ===
+timestamp_epoch:1758036263.634397584
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0065 ===
+timestamp_epoch:1758036263.637213367
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0066 ===
+timestamp_epoch:1758036263.639654568
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0067 ===
+timestamp_epoch:1758036263.642433127
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0068 ===
+timestamp_epoch:1758036263.645375900
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0069 ===
+timestamp_epoch:1758036263.648157541
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0070 ===
+timestamp_epoch:1758036263.651251090
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0071 ===
+timestamp_epoch:1758036263.654019850
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0072 ===
+timestamp_epoch:1758036263.656674395
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0073 ===
+timestamp_epoch:1758036263.659557747
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0074 ===
+timestamp_epoch:1758036263.662227169
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0075 ===
+timestamp_epoch:1758036263.664753977
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0076 ===
+timestamp_epoch:1758036263.667436004
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0077 ===
+timestamp_epoch:1758036263.669878068
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0078 ===
+timestamp_epoch:1758036263.672377756
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0079 ===
+timestamp_epoch:1758036263.675695189
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0080 ===
+timestamp_epoch:1758036263.678377762
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0081 ===
+timestamp_epoch:1758036263.681204522
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0082 ===
+timestamp_epoch:1758036263.683785635
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0083 ===
+timestamp_epoch:1758036263.686312458
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0084 ===
+timestamp_epoch:1758036263.688785253
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0085 ===
+timestamp_epoch:1758036263.691649603
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0086 ===
+timestamp_epoch:1758036263.694815434
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0087 ===
+timestamp_epoch:1758036263.697668726
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0088 ===
+timestamp_epoch:1758036263.700482520
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0089 ===
+timestamp_epoch:1758036263.702998343
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0090 ===
+timestamp_epoch:1758036263.705555088
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0091 ===
+timestamp_epoch:1758036263.708527829
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0092 ===
+timestamp_epoch:1758036263.711403701
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0093 ===
+timestamp_epoch:1758036263.714044761
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0094 ===
+timestamp_epoch:1758036263.716703159
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0095 ===
+timestamp_epoch:1758036263.719245661
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0096 ===
+timestamp_epoch:1758036263.722634877
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0097 ===
+timestamp_epoch:1758036263.725167421
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0098 ===
+timestamp_epoch:1758036263.727986196
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0099 ===
+timestamp_epoch:1758036263.730519212
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0100 ===
+timestamp_epoch:1758036263.733016757
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0101 ===
+timestamp_epoch:1758036263.736228985
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0102 ===
+timestamp_epoch:1758036263.738879031
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0103 ===
+timestamp_epoch:1758036263.741576198
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0104 ===
+timestamp_epoch:1758036263.744808397
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0105 ===
+timestamp_epoch:1758036263.747733884
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0106 ===
+timestamp_epoch:1758036263.750304974
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0107 ===
+timestamp_epoch:1758036263.752794326
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0108 ===
+timestamp_epoch:1758036263.755322610
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0109 ===
+timestamp_epoch:1758036263.758102255
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0110 ===
+timestamp_epoch:1758036263.761209921
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0111 ===
+timestamp_epoch:1758036263.764055603
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0112 ===
+timestamp_epoch:1758036263.766749503
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0113 ===
+timestamp_epoch:1758036263.769437018
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0114 ===
+timestamp_epoch:1758036263.771844123
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0115 ===
+timestamp_epoch:1758036263.774726478
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0116 ===
+timestamp_epoch:1758036263.777818104
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0117 ===
+timestamp_epoch:1758036263.780998046
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0118 ===
+timestamp_epoch:1758036263.784093609
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0119 ===
+timestamp_epoch:1758036263.787061256
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0120 ===
+timestamp_epoch:1758036263.790024185
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0121 ===
+timestamp_epoch:1758036263.793191225
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0122 ===
+timestamp_epoch:1758036263.796287385
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0123 ===
+timestamp_epoch:1758036263.799194698
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0124 ===
+timestamp_epoch:1758036263.801877816
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0125 ===
+timestamp_epoch:1758036263.804575275
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0126 ===
+timestamp_epoch:1758036263.807739067
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0127 ===
+timestamp_epoch:1758036263.810571798
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0128 ===
+timestamp_epoch:1758036263.813416143
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0129 ===
+timestamp_epoch:1758036263.816318142
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0130 ===
+timestamp_epoch:1758036263.819201747
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0131 ===
+timestamp_epoch:1758036263.822223602
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0132 ===
+timestamp_epoch:1758036263.824653343
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0133 ===
+timestamp_epoch:1758036263.827696057
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0134 ===
+timestamp_epoch:1758036263.830654225
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0135 ===
+timestamp_epoch:1758036263.833658919
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0136 ===
+timestamp_epoch:1758036263.836600537
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0137 ===
+timestamp_epoch:1758036263.839447534
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0138 ===
+timestamp_epoch:1758036263.842521336
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0139 ===
+timestamp_epoch:1758036263.845224285
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0140 ===
+timestamp_epoch:1758036263.848045421
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0141 ===
+timestamp_epoch:1758036263.850865922
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0142 ===
+timestamp_epoch:1758036263.853929584
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0143 ===
+timestamp_epoch:1758036263.857001568
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0144 ===
+timestamp_epoch:1758036263.860008145
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0145 ===
+timestamp_epoch:1758036263.863043037
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0146 ===
+timestamp_epoch:1758036263.865946247
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0147 ===
+timestamp_epoch:1758036263.868726581
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0148 ===
+timestamp_epoch:1758036263.871753276
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0149 ===
+timestamp_epoch:1758036263.874959496
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0150 ===
+timestamp_epoch:1758036263.877796833
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0151 ===
+timestamp_epoch:1758036263.881757208
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0152 ===
+timestamp_epoch:1758036263.884396550
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0153 ===
+timestamp_epoch:1758036263.886897191
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0154 ===
+timestamp_epoch:1758036263.889379601
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0155 ===
+timestamp_epoch:1758036263.891754058
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0156 ===
+timestamp_epoch:1758036263.894815174
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0157 ===
+timestamp_epoch:1758036263.897709218
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0158 ===
+timestamp_epoch:1758036263.900496756
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0159 ===
+timestamp_epoch:1758036263.903461413
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0160 ===
+timestamp_epoch:1758036263.906233661
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0161 ===
+timestamp_epoch:1758036263.908960797
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0162 ===
+timestamp_epoch:1758036263.911986792
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0163 ===
+timestamp_epoch:1758036263.914748322
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0164 ===
+timestamp_epoch:1758036263.917677050
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0165 ===
+timestamp_epoch:1758036263.920647057
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0166 ===
+timestamp_epoch:1758036263.923483032
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0167 ===
+timestamp_epoch:1758036263.926788332
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0168 ===
+timestamp_epoch:1758036263.930387897
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0169 ===
+timestamp_epoch:1758036263.933556915
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0170 ===
+timestamp_epoch:1758036263.936257552
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0171 ===
+timestamp_epoch:1758036263.939308156
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0172 ===
+timestamp_epoch:1758036263.942563432
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0173 ===
+timestamp_epoch:1758036263.945848699
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0174 ===
+timestamp_epoch:1758036263.948984749
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0175 ===
+timestamp_epoch:1758036263.951887838
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:7
+
+=== Event 0176 ===
+timestamp_epoch:1758036263.955075474
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0177 ===
+timestamp_epoch:1758036263.957787674
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:10
+
+=== Event 0178 ===
+timestamp_epoch:1758036263.961846478
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:5
+
+=== Event 0179 ===
+timestamp_epoch:1758036263.965145009
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0180 ===
+timestamp_epoch:1758036263.968149355
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0181 ===
+timestamp_epoch:1758036263.970796604
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0182 ===
+timestamp_epoch:1758036263.973473373
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:8
+
+=== Event 0183 ===
+timestamp_epoch:1758036263.976411467
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:9
+
+=== Event 0184 ===
+timestamp_epoch:1758036263.979362445
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0185 ===
+timestamp_epoch:1758036263.981801781
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0186 ===
+timestamp_epoch:1758036263.984208087
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:1
+
+=== Event 0187 ===
+timestamp_epoch:1758036263.986855223
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:6
+
+=== Event 0188 ===
+timestamp_epoch:1758036263.989649861
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:0
+
+=== Event 0189 ===
+timestamp_epoch:1758036263.992904847
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:2
+
+=== Event 0190 ===
+timestamp_epoch:1758036263.995452530
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:3
+
+=== Event 0191 ===
+timestamp_epoch:1758036263.998013733
+timestamp_human:2025-09-16 12:24:23 -0300
+neutrinos:4
+
+=== Event 0192 ===
+timestamp_epoch:1758036264.000510064
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0193 ===
+timestamp_epoch:1758036264.004591503
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0194 ===
+timestamp_epoch:1758036264.008031596
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0195 ===
+timestamp_epoch:1758036264.011262787
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0196 ===
+timestamp_epoch:1758036264.014008405
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0197 ===
+timestamp_epoch:1758036264.016429906
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0198 ===
+timestamp_epoch:1758036264.019512841
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0199 ===
+timestamp_epoch:1758036264.023241500
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0200 ===
+timestamp_epoch:1758036264.025881030
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0201 ===
+timestamp_epoch:1758036264.029165641
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0202 ===
+timestamp_epoch:1758036264.032293815
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0203 ===
+timestamp_epoch:1758036264.034790018
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0204 ===
+timestamp_epoch:1758036264.037309957
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0205 ===
+timestamp_epoch:1758036264.040850304
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0206 ===
+timestamp_epoch:1758036264.043994405
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0207 ===
+timestamp_epoch:1758036264.046885973
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0208 ===
+timestamp_epoch:1758036264.050166718
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0209 ===
+timestamp_epoch:1758036264.053363178
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0210 ===
+timestamp_epoch:1758036264.056344547
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0211 ===
+timestamp_epoch:1758036264.059074979
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0212 ===
+timestamp_epoch:1758036264.062053809
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0213 ===
+timestamp_epoch:1758036264.064682501
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0214 ===
+timestamp_epoch:1758036264.067665154
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0215 ===
+timestamp_epoch:1758036264.070149020
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0216 ===
+timestamp_epoch:1758036264.072579212
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0217 ===
+timestamp_epoch:1758036264.075031474
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0218 ===
+timestamp_epoch:1758036264.078177905
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0219 ===
+timestamp_epoch:1758036264.080597506
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0220 ===
+timestamp_epoch:1758036264.083036755
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0221 ===
+timestamp_epoch:1758036264.085891123
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0222 ===
+timestamp_epoch:1758036264.088903182
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0223 ===
+timestamp_epoch:1758036264.091289351
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0224 ===
+timestamp_epoch:1758036264.094692969
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0225 ===
+timestamp_epoch:1758036264.097402147
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0226 ===
+timestamp_epoch:1758036264.100173504
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0227 ===
+timestamp_epoch:1758036264.103160088
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0228 ===
+timestamp_epoch:1758036264.105615350
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0229 ===
+timestamp_epoch:1758036264.108089725
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0230 ===
+timestamp_epoch:1758036264.111029780
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0231 ===
+timestamp_epoch:1758036264.113846971
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0232 ===
+timestamp_epoch:1758036264.116681411
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0233 ===
+timestamp_epoch:1758036264.119179808
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0234 ===
+timestamp_epoch:1758036264.121635909
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0235 ===
+timestamp_epoch:1758036264.123975228
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0236 ===
+timestamp_epoch:1758036264.126892899
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0237 ===
+timestamp_epoch:1758036264.129573309
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0238 ===
+timestamp_epoch:1758036264.132442206
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0239 ===
+timestamp_epoch:1758036264.135263033
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0240 ===
+timestamp_epoch:1758036264.137998351
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0241 ===
+timestamp_epoch:1758036264.140529155
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0242 ===
+timestamp_epoch:1758036264.143355400
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0243 ===
+timestamp_epoch:1758036264.146273183
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0244 ===
+timestamp_epoch:1758036264.149139943
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0245 ===
+timestamp_epoch:1758036264.152100113
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0246 ===
+timestamp_epoch:1758036264.154748377
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0247 ===
+timestamp_epoch:1758036264.157437413
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0248 ===
+timestamp_epoch:1758036264.160787420
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0249 ===
+timestamp_epoch:1758036264.163645162
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0250 ===
+timestamp_epoch:1758036264.166097223
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0251 ===
+timestamp_epoch:1758036264.168587959
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0252 ===
+timestamp_epoch:1758036264.171348876
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0253 ===
+timestamp_epoch:1758036264.174084271
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0254 ===
+timestamp_epoch:1758036264.176864328
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0255 ===
+timestamp_epoch:1758036264.179762507
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0256 ===
+timestamp_epoch:1758036264.182591381
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0257 ===
+timestamp_epoch:1758036264.185374833
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0258 ===
+timestamp_epoch:1758036264.187974613
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0259 ===
+timestamp_epoch:1758036264.190394450
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0260 ===
+timestamp_epoch:1758036264.193155340
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0261 ===
+timestamp_epoch:1758036264.196469083
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0262 ===
+timestamp_epoch:1758036264.199419861
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0263 ===
+timestamp_epoch:1758036264.202041032
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0264 ===
+timestamp_epoch:1758036264.204565919
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0265 ===
+timestamp_epoch:1758036264.207377694
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0266 ===
+timestamp_epoch:1758036264.210822386
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0267 ===
+timestamp_epoch:1758036264.213652402
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0268 ===
+timestamp_epoch:1758036264.216148381
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0269 ===
+timestamp_epoch:1758036264.219095092
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0270 ===
+timestamp_epoch:1758036264.221904741
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0271 ===
+timestamp_epoch:1758036264.224478016
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0272 ===
+timestamp_epoch:1758036264.227519586
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0273 ===
+timestamp_epoch:1758036264.230260577
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0274 ===
+timestamp_epoch:1758036264.233256519
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0275 ===
+timestamp_epoch:1758036264.235736920
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0276 ===
+timestamp_epoch:1758036264.238296431
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0277 ===
+timestamp_epoch:1758036264.241073870
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0278 ===
+timestamp_epoch:1758036264.243888798
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0279 ===
+timestamp_epoch:1758036264.246847823
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0280 ===
+timestamp_epoch:1758036264.249747538
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0281 ===
+timestamp_epoch:1758036264.252852146
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0282 ===
+timestamp_epoch:1758036264.255674221
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0283 ===
+timestamp_epoch:1758036264.258432090
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0284 ===
+timestamp_epoch:1758036264.261642352
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0285 ===
+timestamp_epoch:1758036264.264534875
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0286 ===
+timestamp_epoch:1758036264.267414869
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0287 ===
+timestamp_epoch:1758036264.269850706
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0288 ===
+timestamp_epoch:1758036264.272487590
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0289 ===
+timestamp_epoch:1758036264.275421854
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0290 ===
+timestamp_epoch:1758036264.278208313
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0291 ===
+timestamp_epoch:1758036264.281065178
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0292 ===
+timestamp_epoch:1758036264.283863047
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0293 ===
+timestamp_epoch:1758036264.286725488
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0294 ===
+timestamp_epoch:1758036264.289467809
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0295 ===
+timestamp_epoch:1758036264.292327201
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0296 ===
+timestamp_epoch:1758036264.295618276
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0297 ===
+timestamp_epoch:1758036264.298319388
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0298 ===
+timestamp_epoch:1758036264.300806498
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0299 ===
+timestamp_epoch:1758036264.303763648
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0300 ===
+timestamp_epoch:1758036264.306853865
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0301 ===
+timestamp_epoch:1758036264.309667965
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0302 ===
+timestamp_epoch:1758036264.312723173
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0303 ===
+timestamp_epoch:1758036264.315239832
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0304 ===
+timestamp_epoch:1758036264.317878012
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0305 ===
+timestamp_epoch:1758036264.320729193
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0306 ===
+timestamp_epoch:1758036264.323228785
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0307 ===
+timestamp_epoch:1758036264.325748540
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0308 ===
+timestamp_epoch:1758036264.328409176
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0309 ===
+timestamp_epoch:1758036264.330892885
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0310 ===
+timestamp_epoch:1758036264.333280238
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0311 ===
+timestamp_epoch:1758036264.336115943
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0312 ===
+timestamp_epoch:1758036264.338482208
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0313 ===
+timestamp_epoch:1758036264.340688944
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0314 ===
+timestamp_epoch:1758036264.343147887
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0315 ===
+timestamp_epoch:1758036264.345584491
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0316 ===
+timestamp_epoch:1758036264.347846692
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0317 ===
+timestamp_epoch:1758036264.350139335
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0318 ===
+timestamp_epoch:1758036264.353212373
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0319 ===
+timestamp_epoch:1758036264.355780556
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0320 ===
+timestamp_epoch:1758036264.358391517
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0321 ===
+timestamp_epoch:1758036264.361144027
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0322 ===
+timestamp_epoch:1758036264.363525869
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0323 ===
+timestamp_epoch:1758036264.366328639
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0324 ===
+timestamp_epoch:1758036264.369459493
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0325 ===
+timestamp_epoch:1758036264.371939232
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0326 ===
+timestamp_epoch:1758036264.374335973
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0327 ===
+timestamp_epoch:1758036264.377096041
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0328 ===
+timestamp_epoch:1758036264.379893701
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0329 ===
+timestamp_epoch:1758036264.382502357
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0330 ===
+timestamp_epoch:1758036264.385573864
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0331 ===
+timestamp_epoch:1758036264.388132345
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0332 ===
+timestamp_epoch:1758036264.390721308
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0333 ===
+timestamp_epoch:1758036264.393400187
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0334 ===
+timestamp_epoch:1758036264.395860438
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0335 ===
+timestamp_epoch:1758036264.398724562
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0336 ===
+timestamp_epoch:1758036264.403383535
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0337 ===
+timestamp_epoch:1758036264.406004644
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0338 ===
+timestamp_epoch:1758036264.408822243
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0339 ===
+timestamp_epoch:1758036264.411890829
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0340 ===
+timestamp_epoch:1758036264.414953370
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0341 ===
+timestamp_epoch:1758036264.418129790
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0342 ===
+timestamp_epoch:1758036264.420564023
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0343 ===
+timestamp_epoch:1758036264.423608939
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0344 ===
+timestamp_epoch:1758036264.426641931
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0345 ===
+timestamp_epoch:1758036264.429311881
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0346 ===
+timestamp_epoch:1758036264.431803377
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0347 ===
+timestamp_epoch:1758036264.434588526
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0348 ===
+timestamp_epoch:1758036264.437549962
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0349 ===
+timestamp_epoch:1758036264.440245868
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0350 ===
+timestamp_epoch:1758036264.442890488
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0351 ===
+timestamp_epoch:1758036264.445800117
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0352 ===
+timestamp_epoch:1758036264.448305726
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0353 ===
+timestamp_epoch:1758036264.450838111
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0354 ===
+timestamp_epoch:1758036264.453486755
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0355 ===
+timestamp_epoch:1758036264.456256235
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0356 ===
+timestamp_epoch:1758036264.459246326
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0357 ===
+timestamp_epoch:1758036264.462016814
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0358 ===
+timestamp_epoch:1758036264.464584883
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0359 ===
+timestamp_epoch:1758036264.467222198
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0360 ===
+timestamp_epoch:1758036264.469686410
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0361 ===
+timestamp_epoch:1758036264.472036003
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0362 ===
+timestamp_epoch:1758036264.474540309
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0363 ===
+timestamp_epoch:1758036264.477381080
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0364 ===
+timestamp_epoch:1758036264.482183221
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0365 ===
+timestamp_epoch:1758036264.485079494
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0366 ===
+timestamp_epoch:1758036264.487892783
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0367 ===
+timestamp_epoch:1758036264.490718892
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0368 ===
+timestamp_epoch:1758036264.493643459
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0369 ===
+timestamp_epoch:1758036264.496534904
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0370 ===
+timestamp_epoch:1758036264.499524053
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0371 ===
+timestamp_epoch:1758036264.502052086
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0372 ===
+timestamp_epoch:1758036264.504732488
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0373 ===
+timestamp_epoch:1758036264.507339559
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0374 ===
+timestamp_epoch:1758036264.511532123
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0375 ===
+timestamp_epoch:1758036264.514862381
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0376 ===
+timestamp_epoch:1758036264.517469171
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0377 ===
+timestamp_epoch:1758036264.520206191
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0378 ===
+timestamp_epoch:1758036264.523062173
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0379 ===
+timestamp_epoch:1758036264.526031669
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0380 ===
+timestamp_epoch:1758036264.529428616
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0381 ===
+timestamp_epoch:1758036264.532685744
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0382 ===
+timestamp_epoch:1758036264.537030748
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0383 ===
+timestamp_epoch:1758036264.540109325
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0384 ===
+timestamp_epoch:1758036264.543696356
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0385 ===
+timestamp_epoch:1758036264.546775969
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0386 ===
+timestamp_epoch:1758036264.549541420
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0387 ===
+timestamp_epoch:1758036264.551911602
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0388 ===
+timestamp_epoch:1758036264.554974763
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0389 ===
+timestamp_epoch:1758036264.558243269
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0390 ===
+timestamp_epoch:1758036264.561615253
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0391 ===
+timestamp_epoch:1758036264.564582242
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0392 ===
+timestamp_epoch:1758036264.567160348
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0393 ===
+timestamp_epoch:1758036264.569897080
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0394 ===
+timestamp_epoch:1758036264.572478255
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0395 ===
+timestamp_epoch:1758036264.575056981
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0396 ===
+timestamp_epoch:1758036264.578696950
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0397 ===
+timestamp_epoch:1758036264.581517420
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0398 ===
+timestamp_epoch:1758036264.584011307
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0399 ===
+timestamp_epoch:1758036264.586464362
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0400 ===
+timestamp_epoch:1758036264.588977026
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0401 ===
+timestamp_epoch:1758036264.591450415
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0402 ===
+timestamp_epoch:1758036264.594649120
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0403 ===
+timestamp_epoch:1758036264.597541298
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0404 ===
+timestamp_epoch:1758036264.599979470
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0405 ===
+timestamp_epoch:1758036264.602488988
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0406 ===
+timestamp_epoch:1758036264.604963469
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0407 ===
+timestamp_epoch:1758036264.607513982
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0408 ===
+timestamp_epoch:1758036264.610584252
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0409 ===
+timestamp_epoch:1758036264.613535608
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0410 ===
+timestamp_epoch:1758036264.615896588
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0411 ===
+timestamp_epoch:1758036264.618331285
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0412 ===
+timestamp_epoch:1758036264.620791444
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0413 ===
+timestamp_epoch:1758036264.623515546
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0414 ===
+timestamp_epoch:1758036264.626677351
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0415 ===
+timestamp_epoch:1758036264.631841695
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0416 ===
+timestamp_epoch:1758036264.635854229
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0417 ===
+timestamp_epoch:1758036264.640473611
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0418 ===
+timestamp_epoch:1758036264.644812071
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0419 ===
+timestamp_epoch:1758036264.650821719
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0420 ===
+timestamp_epoch:1758036264.658568962
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0421 ===
+timestamp_epoch:1758036264.670549280
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0422 ===
+timestamp_epoch:1758036264.684245203
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0423 ===
+timestamp_epoch:1758036264.689308803
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0424 ===
+timestamp_epoch:1758036264.701095049
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0425 ===
+timestamp_epoch:1758036264.704999384
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0426 ===
+timestamp_epoch:1758036264.715360956
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0427 ===
+timestamp_epoch:1758036264.719012928
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0428 ===
+timestamp_epoch:1758036264.722389696
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0429 ===
+timestamp_epoch:1758036264.725751261
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0430 ===
+timestamp_epoch:1758036264.728813336
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0431 ===
+timestamp_epoch:1758036264.732050583
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0432 ===
+timestamp_epoch:1758036264.735076731
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0433 ===
+timestamp_epoch:1758036264.738169511
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0434 ===
+timestamp_epoch:1758036264.741445282
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0435 ===
+timestamp_epoch:1758036264.744306146
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0436 ===
+timestamp_epoch:1758036264.747036836
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0437 ===
+timestamp_epoch:1758036264.749879275
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0438 ===
+timestamp_epoch:1758036264.752697472
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0439 ===
+timestamp_epoch:1758036264.755855273
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0440 ===
+timestamp_epoch:1758036264.758956667
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0441 ===
+timestamp_epoch:1758036264.762234898
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0442 ===
+timestamp_epoch:1758036264.764556683
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0443 ===
+timestamp_epoch:1758036264.766972686
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0444 ===
+timestamp_epoch:1758036264.769211579
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0445 ===
+timestamp_epoch:1758036264.771859812
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0446 ===
+timestamp_epoch:1758036264.774387191
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0447 ===
+timestamp_epoch:1758036264.777625299
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0448 ===
+timestamp_epoch:1758036264.780476608
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0449 ===
+timestamp_epoch:1758036264.782840487
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0450 ===
+timestamp_epoch:1758036264.785440560
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0451 ===
+timestamp_epoch:1758036264.788388212
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0452 ===
+timestamp_epoch:1758036264.791090882
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0453 ===
+timestamp_epoch:1758036264.794108595
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0454 ===
+timestamp_epoch:1758036264.796951376
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0455 ===
+timestamp_epoch:1758036264.800282053
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0456 ===
+timestamp_epoch:1758036264.803386450
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0457 ===
+timestamp_epoch:1758036264.806174997
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0458 ===
+timestamp_epoch:1758036264.808866753
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0459 ===
+timestamp_epoch:1758036264.811963328
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0460 ===
+timestamp_epoch:1758036264.814708809
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0461 ===
+timestamp_epoch:1758036264.817694249
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0462 ===
+timestamp_epoch:1758036264.820225275
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0463 ===
+timestamp_epoch:1758036264.823020729
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0464 ===
+timestamp_epoch:1758036264.825943026
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0465 ===
+timestamp_epoch:1758036264.828607297
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0466 ===
+timestamp_epoch:1758036264.831441419
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0467 ===
+timestamp_epoch:1758036264.834808043
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0468 ===
+timestamp_epoch:1758036264.838452324
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0469 ===
+timestamp_epoch:1758036264.841434932
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0470 ===
+timestamp_epoch:1758036264.845239362
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0471 ===
+timestamp_epoch:1758036264.848835885
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0472 ===
+timestamp_epoch:1758036264.851879739
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0473 ===
+timestamp_epoch:1758036264.854554053
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0474 ===
+timestamp_epoch:1758036264.857263299
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0475 ===
+timestamp_epoch:1758036264.860167163
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0476 ===
+timestamp_epoch:1758036264.863201799
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0477 ===
+timestamp_epoch:1758036264.865812085
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0478 ===
+timestamp_epoch:1758036264.868486341
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0479 ===
+timestamp_epoch:1758036264.871002113
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0480 ===
+timestamp_epoch:1758036264.873553939
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0481 ===
+timestamp_epoch:1758036264.876253633
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0482 ===
+timestamp_epoch:1758036264.878931000
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0483 ===
+timestamp_epoch:1758036264.882093562
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0484 ===
+timestamp_epoch:1758036264.884679579
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0485 ===
+timestamp_epoch:1758036264.887474958
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0486 ===
+timestamp_epoch:1758036264.890562832
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0487 ===
+timestamp_epoch:1758036264.893577117
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0488 ===
+timestamp_epoch:1758036264.896286999
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:3
+
+=== Event 0489 ===
+timestamp_epoch:1758036264.899094266
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0490 ===
+timestamp_epoch:1758036264.901502250
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0491 ===
+timestamp_epoch:1758036264.904309602
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0492 ===
+timestamp_epoch:1758036264.907228107
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0493 ===
+timestamp_epoch:1758036264.910408989
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0494 ===
+timestamp_epoch:1758036264.913628468
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0495 ===
+timestamp_epoch:1758036264.916071904
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0496 ===
+timestamp_epoch:1758036264.918686731
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0497 ===
+timestamp_epoch:1758036264.921169359
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0498 ===
+timestamp_epoch:1758036264.923954963
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0499 ===
+timestamp_epoch:1758036264.927024573
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0500 ===
+timestamp_epoch:1758036264.929706139
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0501 ===
+timestamp_epoch:1758036264.932508382
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0502 ===
+timestamp_epoch:1758036264.935365853
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0503 ===
+timestamp_epoch:1758036264.937807089
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:7
+
+=== Event 0504 ===
+timestamp_epoch:1758036264.940152475
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0505 ===
+timestamp_epoch:1758036264.943206562
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0506 ===
+timestamp_epoch:1758036264.946132844
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0507 ===
+timestamp_epoch:1758036264.948621442
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0508 ===
+timestamp_epoch:1758036264.951667288
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0509 ===
+timestamp_epoch:1758036264.954559095
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:9
+
+=== Event 0510 ===
+timestamp_epoch:1758036264.957134430
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0511 ===
+timestamp_epoch:1758036264.960152075
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:10
+
+=== Event 0512 ===
+timestamp_epoch:1758036264.962736708
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0513 ===
+timestamp_epoch:1758036264.965558237
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0514 ===
+timestamp_epoch:1758036264.968334979
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:2
+
+=== Event 0515 ===
+timestamp_epoch:1758036264.970876012
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0516 ===
+timestamp_epoch:1758036264.973768908
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:8
+
+=== Event 0517 ===
+timestamp_epoch:1758036264.977642151
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:4
+
+=== Event 0518 ===
+timestamp_epoch:1758036264.980492613
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0519 ===
+timestamp_epoch:1758036264.983283784
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0520 ===
+timestamp_epoch:1758036264.985859531
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0521 ===
+timestamp_epoch:1758036264.988831970
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:6
+
+=== Event 0522 ===
+timestamp_epoch:1758036264.992063320
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:1
+
+=== Event 0523 ===
+timestamp_epoch:1758036264.995691812
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:0
+
+=== Event 0524 ===
+timestamp_epoch:1758036264.998154455
+timestamp_human:2025-09-16 12:24:24 -0300
+neutrinos:5
+
+=== Event 0525 ===
+timestamp_epoch:1758036265.000999515
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0526 ===
+timestamp_epoch:1758036265.003779560
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0527 ===
+timestamp_epoch:1758036265.006856430
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0528 ===
+timestamp_epoch:1758036265.012405796
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0529 ===
+timestamp_epoch:1758036265.016180678
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0530 ===
+timestamp_epoch:1758036265.019804110
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0531 ===
+timestamp_epoch:1758036265.022733920
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0532 ===
+timestamp_epoch:1758036265.025992744
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0533 ===
+timestamp_epoch:1758036265.029113118
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0534 ===
+timestamp_epoch:1758036265.031993701
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0535 ===
+timestamp_epoch:1758036265.034978675
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0536 ===
+timestamp_epoch:1758036265.037556775
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0537 ===
+timestamp_epoch:1758036265.040642447
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0538 ===
+timestamp_epoch:1758036265.044682318
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0539 ===
+timestamp_epoch:1758036265.047893045
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0540 ===
+timestamp_epoch:1758036265.051278098
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0541 ===
+timestamp_epoch:1758036265.054597364
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0542 ===
+timestamp_epoch:1758036265.058097013
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0543 ===
+timestamp_epoch:1758036265.062409465
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0544 ===
+timestamp_epoch:1758036265.066188906
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0545 ===
+timestamp_epoch:1758036265.069484408
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0546 ===
+timestamp_epoch:1758036265.072849217
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0547 ===
+timestamp_epoch:1758036265.076462904
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0548 ===
+timestamp_epoch:1758036265.080109767
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0549 ===
+timestamp_epoch:1758036265.083483389
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0550 ===
+timestamp_epoch:1758036265.087110755
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0551 ===
+timestamp_epoch:1758036265.090557798
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0552 ===
+timestamp_epoch:1758036265.093888777
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0553 ===
+timestamp_epoch:1758036265.097408192
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0554 ===
+timestamp_epoch:1758036265.100636513
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0555 ===
+timestamp_epoch:1758036265.103949304
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0556 ===
+timestamp_epoch:1758036265.107253604
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0557 ===
+timestamp_epoch:1758036265.110787310
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0558 ===
+timestamp_epoch:1758036265.114056933
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0559 ===
+timestamp_epoch:1758036265.117132845
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0560 ===
+timestamp_epoch:1758036265.120575044
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0561 ===
+timestamp_epoch:1758036265.124140402
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0562 ===
+timestamp_epoch:1758036265.129372186
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0563 ===
+timestamp_epoch:1758036265.132825918
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0564 ===
+timestamp_epoch:1758036265.137166947
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0565 ===
+timestamp_epoch:1758036265.140844612
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0566 ===
+timestamp_epoch:1758036265.145300765
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0567 ===
+timestamp_epoch:1758036265.148595383
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0568 ===
+timestamp_epoch:1758036265.152840358
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0569 ===
+timestamp_epoch:1758036265.157146741
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0570 ===
+timestamp_epoch:1758036265.161584152
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0571 ===
+timestamp_epoch:1758036265.165236563
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0572 ===
+timestamp_epoch:1758036265.169123864
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0573 ===
+timestamp_epoch:1758036265.172687808
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0574 ===
+timestamp_epoch:1758036265.175966424
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0575 ===
+timestamp_epoch:1758036265.179466421
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0576 ===
+timestamp_epoch:1758036265.182609580
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0577 ===
+timestamp_epoch:1758036265.185771692
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0578 ===
+timestamp_epoch:1758036265.189218923
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0579 ===
+timestamp_epoch:1758036265.194135979
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0580 ===
+timestamp_epoch:1758036265.198141824
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0581 ===
+timestamp_epoch:1758036265.202104717
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0582 ===
+timestamp_epoch:1758036265.205432405
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0583 ===
+timestamp_epoch:1758036265.208694378
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0584 ===
+timestamp_epoch:1758036265.212071718
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0585 ===
+timestamp_epoch:1758036265.215482239
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0586 ===
+timestamp_epoch:1758036265.218889028
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0587 ===
+timestamp_epoch:1758036265.221462186
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0588 ===
+timestamp_epoch:1758036265.224152953
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0589 ===
+timestamp_epoch:1758036265.226898957
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0590 ===
+timestamp_epoch:1758036265.229880284
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0591 ===
+timestamp_epoch:1758036265.232641747
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0592 ===
+timestamp_epoch:1758036265.235127949
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0593 ===
+timestamp_epoch:1758036265.237569261
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0594 ===
+timestamp_epoch:1758036265.240059481
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0595 ===
+timestamp_epoch:1758036265.242876790
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0596 ===
+timestamp_epoch:1758036265.245435412
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0597 ===
+timestamp_epoch:1758036265.248439943
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0598 ===
+timestamp_epoch:1758036265.251222819
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0599 ===
+timestamp_epoch:1758036265.254048357
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0600 ===
+timestamp_epoch:1758036265.257287548
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0601 ===
+timestamp_epoch:1758036265.260278849
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0602 ===
+timestamp_epoch:1758036265.263713569
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0603 ===
+timestamp_epoch:1758036265.266407544
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0604 ===
+timestamp_epoch:1758036265.269570636
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0605 ===
+timestamp_epoch:1758036265.272086623
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0606 ===
+timestamp_epoch:1758036265.274769144
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0607 ===
+timestamp_epoch:1758036265.277720828
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0608 ===
+timestamp_epoch:1758036265.280250805
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0609 ===
+timestamp_epoch:1758036265.282793435
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0610 ===
+timestamp_epoch:1758036265.285317269
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0611 ===
+timestamp_epoch:1758036265.287632965
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0612 ===
+timestamp_epoch:1758036265.290379991
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0613 ===
+timestamp_epoch:1758036265.293636059
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0614 ===
+timestamp_epoch:1758036265.296568269
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0615 ===
+timestamp_epoch:1758036265.300263538
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0616 ===
+timestamp_epoch:1758036265.303691350
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0617 ===
+timestamp_epoch:1758036265.306880132
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0618 ===
+timestamp_epoch:1758036265.310304632
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0619 ===
+timestamp_epoch:1758036265.312791472
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0620 ===
+timestamp_epoch:1758036265.315291453
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0621 ===
+timestamp_epoch:1758036265.318106090
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0622 ===
+timestamp_epoch:1758036265.321022453
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0623 ===
+timestamp_epoch:1758036265.323461036
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0624 ===
+timestamp_epoch:1758036265.326373895
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0625 ===
+timestamp_epoch:1758036265.329382011
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0626 ===
+timestamp_epoch:1758036265.332205994
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0627 ===
+timestamp_epoch:1758036265.334782619
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0628 ===
+timestamp_epoch:1758036265.337278271
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0629 ===
+timestamp_epoch:1758036265.339965156
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0630 ===
+timestamp_epoch:1758036265.342908053
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0631 ===
+timestamp_epoch:1758036265.345819466
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0632 ===
+timestamp_epoch:1758036265.348482657
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0633 ===
+timestamp_epoch:1758036265.351382265
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0634 ===
+timestamp_epoch:1758036265.354186640
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0635 ===
+timestamp_epoch:1758036265.356764387
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0636 ===
+timestamp_epoch:1758036265.359770041
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0637 ===
+timestamp_epoch:1758036265.362724973
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0638 ===
+timestamp_epoch:1758036265.365214287
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0639 ===
+timestamp_epoch:1758036265.367702515
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0640 ===
+timestamp_epoch:1758036265.370230936
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0641 ===
+timestamp_epoch:1758036265.373121970
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0642 ===
+timestamp_epoch:1758036265.375825435
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0643 ===
+timestamp_epoch:1758036265.378438216
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0644 ===
+timestamp_epoch:1758036265.380840416
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0645 ===
+timestamp_epoch:1758036265.383971393
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0646 ===
+timestamp_epoch:1758036265.386801639
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0647 ===
+timestamp_epoch:1758036265.390825477
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0648 ===
+timestamp_epoch:1758036265.394115516
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0649 ===
+timestamp_epoch:1758036265.396549088
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0650 ===
+timestamp_epoch:1758036265.398891050
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0651 ===
+timestamp_epoch:1758036265.401456315
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0652 ===
+timestamp_epoch:1758036265.404846519
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0653 ===
+timestamp_epoch:1758036265.407829061
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0654 ===
+timestamp_epoch:1758036265.410610203
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0655 ===
+timestamp_epoch:1758036265.413233655
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0656 ===
+timestamp_epoch:1758036265.415683240
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0657 ===
+timestamp_epoch:1758036265.418643080
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0658 ===
+timestamp_epoch:1758036265.421576852
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0659 ===
+timestamp_epoch:1758036265.424251090
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0660 ===
+timestamp_epoch:1758036265.426853886
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0661 ===
+timestamp_epoch:1758036265.429583908
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0662 ===
+timestamp_epoch:1758036265.432607124
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0663 ===
+timestamp_epoch:1758036265.436198615
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0664 ===
+timestamp_epoch:1758036265.439794870
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0665 ===
+timestamp_epoch:1758036265.442982515
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0666 ===
+timestamp_epoch:1758036265.448269825
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0667 ===
+timestamp_epoch:1758036265.452822006
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0668 ===
+timestamp_epoch:1758036265.456236631
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0669 ===
+timestamp_epoch:1758036265.459173190
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0670 ===
+timestamp_epoch:1758036265.462757859
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0671 ===
+timestamp_epoch:1758036265.466330579
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0672 ===
+timestamp_epoch:1758036265.470726048
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0673 ===
+timestamp_epoch:1758036265.474890688
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0674 ===
+timestamp_epoch:1758036265.479658669
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0675 ===
+timestamp_epoch:1758036265.482168524
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0676 ===
+timestamp_epoch:1758036265.485281667
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0677 ===
+timestamp_epoch:1758036265.488483873
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0678 ===
+timestamp_epoch:1758036265.491165839
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0679 ===
+timestamp_epoch:1758036265.493783039
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0680 ===
+timestamp_epoch:1758036265.496311672
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0681 ===
+timestamp_epoch:1758036265.498939177
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0682 ===
+timestamp_epoch:1758036265.501678089
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0683 ===
+timestamp_epoch:1758036265.504224342
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0684 ===
+timestamp_epoch:1758036265.506878434
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0685 ===
+timestamp_epoch:1758036265.509596675
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0686 ===
+timestamp_epoch:1758036265.512142117
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0687 ===
+timestamp_epoch:1758036265.514889627
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0688 ===
+timestamp_epoch:1758036265.517652722
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0689 ===
+timestamp_epoch:1758036265.520217316
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0690 ===
+timestamp_epoch:1758036265.522761891
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0691 ===
+timestamp_epoch:1758036265.525308611
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0692 ===
+timestamp_epoch:1758036265.527861308
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0693 ===
+timestamp_epoch:1758036265.530369259
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0694 ===
+timestamp_epoch:1758036265.532762080
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0695 ===
+timestamp_epoch:1758036265.535204998
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0696 ===
+timestamp_epoch:1758036265.537755693
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0697 ===
+timestamp_epoch:1758036265.540206300
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0698 ===
+timestamp_epoch:1758036265.542829550
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0699 ===
+timestamp_epoch:1758036265.545449437
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0700 ===
+timestamp_epoch:1758036265.548083730
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0701 ===
+timestamp_epoch:1758036265.550592710
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0702 ===
+timestamp_epoch:1758036265.553160934
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0703 ===
+timestamp_epoch:1758036265.555926740
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0704 ===
+timestamp_epoch:1758036265.558657738
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0705 ===
+timestamp_epoch:1758036265.561897881
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0706 ===
+timestamp_epoch:1758036265.564704017
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0707 ===
+timestamp_epoch:1758036265.567154956
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0708 ===
+timestamp_epoch:1758036265.569344505
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0709 ===
+timestamp_epoch:1758036265.571892525
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0710 ===
+timestamp_epoch:1758036265.574294116
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0711 ===
+timestamp_epoch:1758036265.576754957
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0712 ===
+timestamp_epoch:1758036265.579320249
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0713 ===
+timestamp_epoch:1758036265.582100055
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0714 ===
+timestamp_epoch:1758036265.584789500
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0715 ===
+timestamp_epoch:1758036265.587706199
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0716 ===
+timestamp_epoch:1758036265.590498479
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0717 ===
+timestamp_epoch:1758036265.593130523
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0718 ===
+timestamp_epoch:1758036265.595827274
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0719 ===
+timestamp_epoch:1758036265.598135492
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0720 ===
+timestamp_epoch:1758036265.600339925
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0721 ===
+timestamp_epoch:1758036265.602758639
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0722 ===
+timestamp_epoch:1758036265.605816903
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0723 ===
+timestamp_epoch:1758036265.608468326
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0724 ===
+timestamp_epoch:1758036265.610924486
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0725 ===
+timestamp_epoch:1758036265.613213319
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0726 ===
+timestamp_epoch:1758036265.615792374
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0727 ===
+timestamp_epoch:1758036265.618236340
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0728 ===
+timestamp_epoch:1758036265.620473282
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0729 ===
+timestamp_epoch:1758036265.622708543
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0730 ===
+timestamp_epoch:1758036265.625243633
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0731 ===
+timestamp_epoch:1758036265.628036594
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0732 ===
+timestamp_epoch:1758036265.630337681
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0733 ===
+timestamp_epoch:1758036265.632918459
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0734 ===
+timestamp_epoch:1758036265.635299778
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0735 ===
+timestamp_epoch:1758036265.637547047
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0736 ===
+timestamp_epoch:1758036265.639852984
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0737 ===
+timestamp_epoch:1758036265.642099078
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0738 ===
+timestamp_epoch:1758036265.644409304
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0739 ===
+timestamp_epoch:1758036265.646766276
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0740 ===
+timestamp_epoch:1758036265.649370838
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0741 ===
+timestamp_epoch:1758036265.651690392
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0742 ===
+timestamp_epoch:1758036265.654002830
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0743 ===
+timestamp_epoch:1758036265.656141884
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0744 ===
+timestamp_epoch:1758036265.658701353
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0745 ===
+timestamp_epoch:1758036265.661233785
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0746 ===
+timestamp_epoch:1758036265.664381623
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0747 ===
+timestamp_epoch:1758036265.666875482
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0748 ===
+timestamp_epoch:1758036265.669345773
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0749 ===
+timestamp_epoch:1758036265.671671738
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0750 ===
+timestamp_epoch:1758036265.674169844
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0751 ===
+timestamp_epoch:1758036265.676891848
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0752 ===
+timestamp_epoch:1758036265.679424457
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0753 ===
+timestamp_epoch:1758036265.681847230
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0754 ===
+timestamp_epoch:1758036265.684060173
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0755 ===
+timestamp_epoch:1758036265.686531562
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0756 ===
+timestamp_epoch:1758036265.688957080
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0757 ===
+timestamp_epoch:1758036265.692051676
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0758 ===
+timestamp_epoch:1758036265.694772529
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0759 ===
+timestamp_epoch:1758036265.697223062
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0760 ===
+timestamp_epoch:1758036265.699812375
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0761 ===
+timestamp_epoch:1758036265.702450027
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0762 ===
+timestamp_epoch:1758036265.706126429
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0763 ===
+timestamp_epoch:1758036265.711409796
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0764 ===
+timestamp_epoch:1758036265.714190026
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0765 ===
+timestamp_epoch:1758036265.716408098
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0766 ===
+timestamp_epoch:1758036265.718713450
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0767 ===
+timestamp_epoch:1758036265.721676059
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0768 ===
+timestamp_epoch:1758036265.724937800
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0769 ===
+timestamp_epoch:1758036265.727852604
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0770 ===
+timestamp_epoch:1758036265.730540002
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0771 ===
+timestamp_epoch:1758036265.732741983
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0772 ===
+timestamp_epoch:1758036265.735062447
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0773 ===
+timestamp_epoch:1758036265.737408942
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0774 ===
+timestamp_epoch:1758036265.739987040
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0775 ===
+timestamp_epoch:1758036265.742341385
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0776 ===
+timestamp_epoch:1758036265.744791423
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0777 ===
+timestamp_epoch:1758036265.747234348
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0778 ===
+timestamp_epoch:1758036265.749808423
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0779 ===
+timestamp_epoch:1758036265.752732257
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0780 ===
+timestamp_epoch:1758036265.755628006
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0781 ===
+timestamp_epoch:1758036265.758595853
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0782 ===
+timestamp_epoch:1758036265.761463834
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0783 ===
+timestamp_epoch:1758036265.764014146
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0784 ===
+timestamp_epoch:1758036265.766492756
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0785 ===
+timestamp_epoch:1758036265.768777119
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0786 ===
+timestamp_epoch:1758036265.771238488
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0787 ===
+timestamp_epoch:1758036265.773801976
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0788 ===
+timestamp_epoch:1758036265.776484494
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0789 ===
+timestamp_epoch:1758036265.779074437
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0790 ===
+timestamp_epoch:1758036265.781829771
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0791 ===
+timestamp_epoch:1758036265.784042743
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0792 ===
+timestamp_epoch:1758036265.786534246
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0793 ===
+timestamp_epoch:1758036265.788744522
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0794 ===
+timestamp_epoch:1758036265.791282098
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0795 ===
+timestamp_epoch:1758036265.793902591
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0796 ===
+timestamp_epoch:1758036265.796162885
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0797 ===
+timestamp_epoch:1758036265.798628429
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0798 ===
+timestamp_epoch:1758036265.801060240
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0799 ===
+timestamp_epoch:1758036265.803348587
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0800 ===
+timestamp_epoch:1758036265.805961987
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0801 ===
+timestamp_epoch:1758036265.808717681
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0802 ===
+timestamp_epoch:1758036265.811109711
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0803 ===
+timestamp_epoch:1758036265.813653929
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0804 ===
+timestamp_epoch:1758036265.816231102
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0805 ===
+timestamp_epoch:1758036265.818685685
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0806 ===
+timestamp_epoch:1758036265.821026353
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0807 ===
+timestamp_epoch:1758036265.823540033
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0808 ===
+timestamp_epoch:1758036265.826094595
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0809 ===
+timestamp_epoch:1758036265.828660064
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0810 ===
+timestamp_epoch:1758036265.831417640
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0811 ===
+timestamp_epoch:1758036265.834213481
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0812 ===
+timestamp_epoch:1758036265.836857398
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0813 ===
+timestamp_epoch:1758036265.839326419
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0814 ===
+timestamp_epoch:1758036265.841823213
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0815 ===
+timestamp_epoch:1758036265.844425096
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0816 ===
+timestamp_epoch:1758036265.847069124
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0817 ===
+timestamp_epoch:1758036265.849520371
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0818 ===
+timestamp_epoch:1758036265.852041115
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0819 ===
+timestamp_epoch:1758036265.854921259
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0820 ===
+timestamp_epoch:1758036265.857543945
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0821 ===
+timestamp_epoch:1758036265.859766223
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0822 ===
+timestamp_epoch:1758036265.862276818
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0823 ===
+timestamp_epoch:1758036265.864657797
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0824 ===
+timestamp_epoch:1758036265.867607158
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0825 ===
+timestamp_epoch:1758036265.869945467
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0826 ===
+timestamp_epoch:1758036265.872567438
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0827 ===
+timestamp_epoch:1758036265.874988457
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0828 ===
+timestamp_epoch:1758036265.877572587
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0829 ===
+timestamp_epoch:1758036265.880177949
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0830 ===
+timestamp_epoch:1758036265.882885468
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0831 ===
+timestamp_epoch:1758036265.885495718
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0832 ===
+timestamp_epoch:1758036265.888112991
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0833 ===
+timestamp_epoch:1758036265.891161061
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0834 ===
+timestamp_epoch:1758036265.893884678
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0835 ===
+timestamp_epoch:1758036265.896716880
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0836 ===
+timestamp_epoch:1758036265.899723930
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0837 ===
+timestamp_epoch:1758036265.902532415
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0838 ===
+timestamp_epoch:1758036265.905332133
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0839 ===
+timestamp_epoch:1758036265.908037733
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0840 ===
+timestamp_epoch:1758036265.910538654
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0841 ===
+timestamp_epoch:1758036265.913012066
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0842 ===
+timestamp_epoch:1758036265.915530393
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:8
+
+=== Event 0843 ===
+timestamp_epoch:1758036265.917841177
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0844 ===
+timestamp_epoch:1758036265.920032023
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0845 ===
+timestamp_epoch:1758036265.922476496
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0846 ===
+timestamp_epoch:1758036265.925339805
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0847 ===
+timestamp_epoch:1758036265.927603669
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0848 ===
+timestamp_epoch:1758036265.930011796
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0849 ===
+timestamp_epoch:1758036265.932660111
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0850 ===
+timestamp_epoch:1758036265.935217989
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0851 ===
+timestamp_epoch:1758036265.937713674
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0852 ===
+timestamp_epoch:1758036265.940410223
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0853 ===
+timestamp_epoch:1758036265.942957430
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0854 ===
+timestamp_epoch:1758036265.945139382
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0855 ===
+timestamp_epoch:1758036265.947358230
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:7
+
+=== Event 0856 ===
+timestamp_epoch:1758036265.949629635
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0857 ===
+timestamp_epoch:1758036265.951792093
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0858 ===
+timestamp_epoch:1758036265.954715539
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0859 ===
+timestamp_epoch:1758036265.957026957
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0860 ===
+timestamp_epoch:1758036265.959186577
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0861 ===
+timestamp_epoch:1758036265.961483270
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:10
+
+=== Event 0862 ===
+timestamp_epoch:1758036265.963676234
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0863 ===
+timestamp_epoch:1758036265.965869348
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:3
+
+=== Event 0864 ===
+timestamp_epoch:1758036265.969425735
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:1
+
+=== Event 0865 ===
+timestamp_epoch:1758036265.971913652
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:4
+
+=== Event 0866 ===
+timestamp_epoch:1758036265.974200283
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:2
+
+=== Event 0867 ===
+timestamp_epoch:1758036265.976426341
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0868 ===
+timestamp_epoch:1758036265.978735515
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:6
+
+=== Event 0869 ===
+timestamp_epoch:1758036265.981183967
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0870 ===
+timestamp_epoch:1758036265.983770319
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0871 ===
+timestamp_epoch:1758036265.986569113
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0872 ===
+timestamp_epoch:1758036265.989155208
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0873 ===
+timestamp_epoch:1758036265.991809849
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:9
+
+=== Event 0874 ===
+timestamp_epoch:1758036265.994184059
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:0
+
+=== Event 0875 ===
+timestamp_epoch:1758036265.996906118
+timestamp_human:2025-09-16 12:24:25 -0300
+neutrinos:5
+
+=== Event 0876 ===
+timestamp_epoch:1758036265.999716289
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0877 ===
+timestamp_epoch:1758036266.002420260
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0878 ===
+timestamp_epoch:1758036266.004904918
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0879 ===
+timestamp_epoch:1758036266.007200639
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:8
+
+=== Event 0880 ===
+timestamp_epoch:1758036266.009566348
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:2
+
+=== Event 0881 ===
+timestamp_epoch:1758036266.011908296
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:9
+
+=== Event 0882 ===
+timestamp_epoch:1758036266.014380008
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0883 ===
+timestamp_epoch:1758036266.016887845
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0884 ===
+timestamp_epoch:1758036266.019276545
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0885 ===
+timestamp_epoch:1758036266.021663141
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0886 ===
+timestamp_epoch:1758036266.024229369
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:9
+
+=== Event 0887 ===
+timestamp_epoch:1758036266.026971616
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:4
+
+=== Event 0888 ===
+timestamp_epoch:1758036266.029356680
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0889 ===
+timestamp_epoch:1758036266.032046690
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0890 ===
+timestamp_epoch:1758036266.034821936
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0891 ===
+timestamp_epoch:1758036266.037325513
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:4
+
+=== Event 0892 ===
+timestamp_epoch:1758036266.040121414
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:2
+
+=== Event 0893 ===
+timestamp_epoch:1758036266.042984268
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0894 ===
+timestamp_epoch:1758036266.045509652
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0895 ===
+timestamp_epoch:1758036266.047795837
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:8
+
+=== Event 0896 ===
+timestamp_epoch:1758036266.050162243
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0897 ===
+timestamp_epoch:1758036266.052627112
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:9
+
+=== Event 0898 ===
+timestamp_epoch:1758036266.054948314
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:2
+
+=== Event 0899 ===
+timestamp_epoch:1758036266.057301358
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0900 ===
+timestamp_epoch:1758036266.059837095
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:4
+
+=== Event 0901 ===
+timestamp_epoch:1758036266.062535176
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0902 ===
+timestamp_epoch:1758036266.064793252
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:0
+
+=== Event 0903 ===
+timestamp_epoch:1758036266.067262281
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:0
+
+=== Event 0904 ===
+timestamp_epoch:1758036266.069719651
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0905 ===
+timestamp_epoch:1758036266.071969882
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0906 ===
+timestamp_epoch:1758036266.074348208
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0907 ===
+timestamp_epoch:1758036266.076986751
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:4
+
+=== Event 0908 ===
+timestamp_epoch:1758036266.079301918
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0909 ===
+timestamp_epoch:1758036266.081732176
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0910 ===
+timestamp_epoch:1758036266.084072500
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0911 ===
+timestamp_epoch:1758036266.086757380
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0912 ===
+timestamp_epoch:1758036266.089055124
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:2
+
+=== Event 0913 ===
+timestamp_epoch:1758036266.091424588
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:8
+
+=== Event 0914 ===
+timestamp_epoch:1758036266.093993045
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0915 ===
+timestamp_epoch:1758036266.096309610
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0916 ===
+timestamp_epoch:1758036266.098779244
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0917 ===
+timestamp_epoch:1758036266.101178792
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0918 ===
+timestamp_epoch:1758036266.103417891
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:9
+
+=== Event 0919 ===
+timestamp_epoch:1758036266.105751437
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0920 ===
+timestamp_epoch:1758036266.108321904
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0921 ===
+timestamp_epoch:1758036266.110819252
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:4
+
+=== Event 0922 ===
+timestamp_epoch:1758036266.113119254
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0923 ===
+timestamp_epoch:1758036266.115335942
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0924 ===
+timestamp_epoch:1758036266.117914542
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0925 ===
+timestamp_epoch:1758036266.120476089
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:4
+
+=== Event 0926 ===
+timestamp_epoch:1758036266.122948486
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0927 ===
+timestamp_epoch:1758036266.125429673
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0928 ===
+timestamp_epoch:1758036266.127830777
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0929 ===
+timestamp_epoch:1758036266.130429460
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0930 ===
+timestamp_epoch:1758036266.132716219
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0931 ===
+timestamp_epoch:1758036266.135213244
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0932 ===
+timestamp_epoch:1758036266.138050240
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0933 ===
+timestamp_epoch:1758036266.140356001
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0934 ===
+timestamp_epoch:1758036266.142977052
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:8
+
+=== Event 0935 ===
+timestamp_epoch:1758036266.145778642
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0936 ===
+timestamp_epoch:1758036266.148074264
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0937 ===
+timestamp_epoch:1758036266.150488207
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0938 ===
+timestamp_epoch:1758036266.153100229
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0939 ===
+timestamp_epoch:1758036266.156106507
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0940 ===
+timestamp_epoch:1758036266.158689465
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0941 ===
+timestamp_epoch:1758036266.161333238
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0942 ===
+timestamp_epoch:1758036266.163705592
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:0
+
+=== Event 0943 ===
+timestamp_epoch:1758036266.165815484
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:8
+
+=== Event 0944 ===
+timestamp_epoch:1758036266.168435922
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0945 ===
+timestamp_epoch:1758036266.170841559
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0946 ===
+timestamp_epoch:1758036266.173112465
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0947 ===
+timestamp_epoch:1758036266.175774948
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0948 ===
+timestamp_epoch:1758036266.178330423
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:2
+
+=== Event 0949 ===
+timestamp_epoch:1758036266.181073031
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0950 ===
+timestamp_epoch:1758036266.183986558
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0951 ===
+timestamp_epoch:1758036266.186690258
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:9
+
+=== Event 0952 ===
+timestamp_epoch:1758036266.189250242
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0953 ===
+timestamp_epoch:1758036266.191550691
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0954 ===
+timestamp_epoch:1758036266.193916625
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0955 ===
+timestamp_epoch:1758036266.196145894
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:0
+
+=== Event 0956 ===
+timestamp_epoch:1758036266.198827920
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0957 ===
+timestamp_epoch:1758036266.201577992
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0958 ===
+timestamp_epoch:1758036266.204478631
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0959 ===
+timestamp_epoch:1758036266.207051725
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0960 ===
+timestamp_epoch:1758036266.209364772
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0961 ===
+timestamp_epoch:1758036266.211913056
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0962 ===
+timestamp_epoch:1758036266.214680026
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:0
+
+=== Event 0963 ===
+timestamp_epoch:1758036266.217249161
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:0
+
+=== Event 0964 ===
+timestamp_epoch:1758036266.219652834
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0965 ===
+timestamp_epoch:1758036266.222019411
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0966 ===
+timestamp_epoch:1758036266.224557358
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0967 ===
+timestamp_epoch:1758036266.226880161
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0968 ===
+timestamp_epoch:1758036266.229688973
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:4
+
+=== Event 0969 ===
+timestamp_epoch:1758036266.232111892
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0970 ===
+timestamp_epoch:1758036266.234559692
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:9
+
+=== Event 0971 ===
+timestamp_epoch:1758036266.237000555
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0972 ===
+timestamp_epoch:1758036266.239317550
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:8
+
+=== Event 0973 ===
+timestamp_epoch:1758036266.242005125
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0974 ===
+timestamp_epoch:1758036266.244676248
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0975 ===
+timestamp_epoch:1758036266.247542498
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0976 ===
+timestamp_epoch:1758036266.250057108
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:9
+
+=== Event 0977 ===
+timestamp_epoch:1758036266.252588894
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:0
+
+=== Event 0978 ===
+timestamp_epoch:1758036266.255307154
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 0979 ===
+timestamp_epoch:1758036266.257750054
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:8
+
+=== Event 0980 ===
+timestamp_epoch:1758036266.260475580
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0981 ===
+timestamp_epoch:1758036266.262900526
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0982 ===
+timestamp_epoch:1758036266.265378404
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:9
+
+=== Event 0983 ===
+timestamp_epoch:1758036266.267946748
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0984 ===
+timestamp_epoch:1758036266.270770682
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:8
+
+=== Event 0985 ===
+timestamp_epoch:1758036266.273554709
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+
+=== Event 0986 ===
+timestamp_epoch:1758036266.276114009
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:1
+
+=== Event 0987 ===
+timestamp_epoch:1758036266.278665969
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0988 ===
+timestamp_epoch:1758036266.281153861
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0989 ===
+timestamp_epoch:1758036266.283431602
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:4
+
+=== Event 0990 ===
+timestamp_epoch:1758036266.285822795
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0991 ===
+timestamp_epoch:1758036266.287925525
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:9
+
+=== Event 0992 ===
+timestamp_epoch:1758036266.290313378
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:7
+
+=== Event 0993 ===
+timestamp_epoch:1758036266.292439864
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:0
+
+=== Event 0994 ===
+timestamp_epoch:1758036266.294493620
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0995 ===
+timestamp_epoch:1758036266.296618191
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:3
+
+=== Event 0996 ===
+timestamp_epoch:1758036266.298935511
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:5
+
+=== Event 0997 ===
+timestamp_epoch:1758036266.301570180
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:8
+
+=== Event 0998 ===
+timestamp_epoch:1758036266.304196245
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:0
+
+=== Event 0999 ===
+timestamp_epoch:1758036266.306964576
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:6
+
+=== Event 1000 ===
+timestamp_epoch:1758036266.309457803
+timestamp_human:2025-09-16 12:24:26 -0300
+neutrinos:10
+

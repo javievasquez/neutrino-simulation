@@ -1,0 +1,4 @@
+N_events: 1000
+average_interval_seconds: 0.002902
+script_runtime_seconds: 4.289403
+generated_at: 2025-09-16 12:24:27 -0300
